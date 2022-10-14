@@ -1,0 +1,15 @@
+C:\Users\MDT1598\Desktop\Midterm MDT211\Idia Camp 2022\bin\Debug\net6.0\Idia Camp 2022.exe
+C:\Users\MDT1598\Desktop\Midterm MDT211\Idia Camp 2022\bin\Debug\net6.0\Idia Camp 2022.deps.json
+C:\Users\MDT1598\Desktop\Midterm MDT211\Idia Camp 2022\bin\Debug\net6.0\Idia Camp 2022.runtimeconfig.json
+C:\Users\MDT1598\Desktop\Midterm MDT211\Idia Camp 2022\bin\Debug\net6.0\Idia Camp 2022.dll
+C:\Users\MDT1598\Desktop\Midterm MDT211\Idia Camp 2022\bin\Debug\net6.0\Idia Camp 2022.pdb
+C:\Users\MDT1598\Desktop\Midterm MDT211\Idia Camp 2022\obj\Debug\net6.0\Idia Camp 2022.csproj.AssemblyReference.cache
+C:\Users\MDT1598\Desktop\Midterm MDT211\Idia Camp 2022\obj\Debug\net6.0\Idia Camp 2022.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\MDT1598\Desktop\Midterm MDT211\Idia Camp 2022\obj\Debug\net6.0\Idia Camp 2022.AssemblyInfoInputs.cache
+C:\Users\MDT1598\Desktop\Midterm MDT211\Idia Camp 2022\obj\Debug\net6.0\Idia Camp 2022.AssemblyInfo.cs
+C:\Users\MDT1598\Desktop\Midterm MDT211\Idia Camp 2022\obj\Debug\net6.0\Idia Camp 2022.csproj.CoreCompileInputs.cache
+C:\Users\MDT1598\Desktop\Midterm MDT211\Idia Camp 2022\obj\Debug\net6.0\Idia Camp 2022.dll
+C:\Users\MDT1598\Desktop\Midterm MDT211\Idia Camp 2022\obj\Debug\net6.0\refint\Idia Camp 2022.dll
+C:\Users\MDT1598\Desktop\Midterm MDT211\Idia Camp 2022\obj\Debug\net6.0\Idia Camp 2022.pdb
+C:\Users\MDT1598\Desktop\Midterm MDT211\Idia Camp 2022\obj\Debug\net6.0\Idia Camp 2022.genruntimeconfig.cache
+C:\Users\MDT1598\Desktop\Midterm MDT211\Idia Camp 2022\obj\Debug\net6.0\ref\Idia Camp 2022.dll
